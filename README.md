@@ -14,3 +14,7 @@ https://trello.com/b/fkVozqb6/facial-recognition
 1) https://github.com/ageitgey/face_recognition
 2) https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_089.pdf
 3) https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html
+
+## Datasets
+1) http://vis-www.cs.umass.edu/lfw/ , https://www.kaggle.com/jessicali9530/lfw-dataset
+2) http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html

@@ -18,3 +18,8 @@ https://trello.com/b/fkVozqb6/facial-recognition
 ### Datasets
 1) http://vis-www.cs.umass.edu/lfw/ , https://www.kaggle.com/jessicali9530/lfw-dataset
 2) http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+
+### Detectors
+1) https://github.com/nalbert9/Facial-Keypoint-Detection - keypoint detector
+2) https://github.com/shantnu/FaceDetect - square image face detector
+3) 

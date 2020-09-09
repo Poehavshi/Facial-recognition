@@ -22,4 +22,5 @@ https://trello.com/b/fkVozqb6/facial-recognition
 ### Detectors
 1) https://github.com/nalbert9/Facial-Keypoint-Detection - keypoint detector
 2) https://github.com/shantnu/FaceDetect - square image face detector
-3) 
+3) https://github.com/YuvalNirkin/face_segmentation - face segment detector
+4) https://towardsdatascience.com/image-segmentation-using-pythons-scikit-image-module-533a61ecc980 - different types of face segmentation
